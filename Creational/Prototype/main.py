@@ -48,7 +48,6 @@ def main():
     print(m1)
 
 
-
 if __name__ == '__main__':
     print('Implementing the prototype design pattern in Python')
     main()
